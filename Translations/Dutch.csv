@@ -6134,7 +6134,7 @@ being.group.colonist,Kolonist,,Short name for top right group rectangle widget. 
 being.group.animal,Dier,,Short name for top right group rectangle widget. Keep it under 9 characters or less or it will wrap and look ugly
 being.group.enemy,Vijand,,Short name for top right group rectangle widget. Keep it under 9 characters or less or it will wrap and look ugly
 being.group.other,Andere,,Short name for top right group rectangle widget. Keep it under 9 characters or less or it will wrap and look ugly
-combat.ended,,,
+combat.ended,Gevecht beëindigd,,
 connector.ship.cpu.tip,,,{0} will be replaced with translation of Ship Computer
 unidentified.object.appeared,,,
 cond.CrawlerInfected.desc,,,
@@ -6147,10 +6147,10 @@ provides.stats,,,
 modifies.stats,,,
 path.optimize.teleporters,,,
 path.optimize.teleporters.tip,,,
-obj.materials.pumpkin,,,
-obj.meals.pumpkinsoup,,,
-research.habitation.halloweendecorations,,,
-obj.plants.pumpkin,,,
+obj.materials.pumpkin,Pompoen,,
+obj.meals.pumpkinsoup,Pompoensoep,,
+research.habitation.halloweendecorations,Halloween Versieringen,,
+obj.plants.pumpkin,Pompoen,,
 objects.cosmetics.pumpkinhead01,,,
 obj.meals.pumpkinsoup.desc,,,
 objects.cosmetics.pumpkinhead01.desc,,,
@@ -6571,16 +6571,16 @@ modifier.ResearchCost,,,
 modifier.ResearchCost.desc,,,
 scan.target.deep,Dieptescan,,
 scan.target.deep.desc,,,
-noun.list,,,
+noun.list,Lijst,,
 ai.alignment.info.1,,,
 ai.alignment.info.2,,,
 system.scan.extended,,,
 system.scan.extended.desc,,,
-share.ship,,,for sharing the ship in steam workshop
-noun.ship,,,as in space ship (but has to be short)
-noun.ships,,,plural of ship
-game.template.mode,,,
-game.template.new,,,
+share.ship,Deel Schip,,for sharing the ship in steam workshop
+noun.ship,Schip,,as in space ship (but has to be short)
+noun.ships,Schepen,,plural of ship
+game.template.mode,Dit bewaard bestand wordt geladen in <b>Voorbeeld</b> modus. Je kunt het in enkel-lezen modus exploreren of een nieuw spel starten met dit schip.,,
+game.template.new,Start een nieuw spel met dit schip.,,
 more.actions,Meer acties,,
 download.ships,Download Schepen,,
 mod.unsubscribe,Uitschrijven,,
